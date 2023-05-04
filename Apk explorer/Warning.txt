@@ -1,0 +1,5 @@
+if a threat appears while installing the app, please download it from the following link on the Play Market: 
+https://play.google.com/store/apps/details?id=com.iBetaGames.AttackWar&hl=en&gl=US
+
+Or click "install anyway" and install without fear.
+This is a release made specifically for github!
